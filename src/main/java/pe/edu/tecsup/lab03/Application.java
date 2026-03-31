@@ -1,4 +1,10 @@
 package pe.edu.tecsup.lab03;
 
 public class Application {
+
+    public static void main(String[] args) {
+        // TO DO
+        int Alejandra =666;
+    }
+
 }
